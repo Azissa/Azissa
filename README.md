@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azis Satya Agni</h1>
+<h3 align="center">An Electrical Engineering Student at Institut Teknologi Sepuluh Nopember</h3>
 
 
 **Azissa/Azissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
