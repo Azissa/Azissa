@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azis Satya Agni</h1>
 <h3 align="center">An Electrical Engineering Student at Institut Teknologi Sepuluh Nopember</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:0A1A3A,100:1B7F3B&height=150&section=header&text=Hi%2C%20I'm%20Azis Satya Agni&fontSize=36&fontColor=ffffff" alt="banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1B7F3B&vCenter=true&width=500&lines=Electrical+Engineering+%40+ITS;Learning+Embedded+%26+Robotics;Building+one+commit+at+a+time" alt="typing" />
 
 ## 🛠️ Tech Stack & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
