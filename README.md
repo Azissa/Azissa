@@ -21,7 +21,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't like coffee
 
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
