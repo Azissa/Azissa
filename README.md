@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Azis Satya Agni</h1>
 <h3 align="center">An Electrical Engineering Student at Institut Teknologi Sepuluh Nopember</h3>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:0A1A3A,100:1B7F3B&height=150&section=header&text=Hi%2C%20I'm%20Azis Satya Agni&fontSize=36&fontColor=ffffff" alt="banner" />
+
 ## 🛠️ Tech Stack & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-**Azissa/Azissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
