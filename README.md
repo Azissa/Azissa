@@ -6,6 +6,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azissa&layout=compact&hide_border=true&bg_color=0A1A3A&title_color=1B7F3B&text_color=ffffff" />
 </p>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Azissa.Azissa)
 
 - 🔭 I’m currently working on ...
