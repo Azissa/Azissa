@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on an impacfull project
 - 💬 Ask me about games, and i'm down for it
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: although i will be an engineer, i don't like coffee
+- ⚡ Fun fact: i don't like coffee
 
 
 
