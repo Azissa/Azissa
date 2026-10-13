@@ -6,7 +6,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azissa&layout=compact&hide_border=true&bg_color=0A1A3A&title_color=1B7F3B&text_color=ffffff" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Azissa&theme=onedark&no-frame=true&row=1&column=6" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Azissa.Azissa)
 
