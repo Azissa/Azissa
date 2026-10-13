@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azissa&label=Visitor%20Count&color=00ff00&label_color=000000&style=for-the-badge" alt="Visitor Count" />
-</div>
+# Hi, I'm <Nama> 👋
 
 <!--
 **Azissa/Azissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
