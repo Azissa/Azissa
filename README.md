@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A1A3A,100:#030ffc&height=200&section=header&text=Hi+👋,+I'm+Azis+Satya+Agni&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=&descSize=18" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A1A3A,100:#030ffc&height=200&section=header&text=Hi+👋,+I'm+Azis+Satya+Agni&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Eelectrical+Engineering+@+ITS&descSize=18" alt="banner" />
 <h2 align="center">An Electrical Engineering Student at Institut Teknologi Sepuluh Nopember</h2>
 
 <p align="center">
@@ -37,7 +37,6 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Azissa&color=1B7F3B&style=for-the-badge)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3A,100:1B7F3B&height=180&section=header&text=Azis%20Satya%20Agni&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 
 
