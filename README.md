@@ -3,7 +3,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0A1A3A,100:1B7F3B&height=200&section=header&text=Azis+Satya+Agni&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Electrical%20Engineering%20%40%20ITS&descSize=18" alt="banner" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azissa&bg_color=0A1A3A&color=ffffff&line=1B7F3B&point=ffffff&area=true&hide_border=true" width="100%" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azissa&show_icons=true&hide_border=true&bg_color=0A1A3A&title_color=1B7F3B&icon_color=1B7F3B&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azissa&layout=compact&hide_border=true&bg_color=0A1A3A&title_color=1B7F3B&text_color=ffffff" />
+</p>
 
 
 Here are some ideas to get you started:
