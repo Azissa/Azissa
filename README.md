@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azis-satya-agni)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azis_tyaa)
 
-![Views](https://komarev.com/ghpvc/?username=Azissa&abbreviated=true&color=green)
+![Views](https://komarev.com/ghpvc/?username=Azissa&abbreviated=true&color=green&style=for-the-badge)
 
 ![Views](https://komarev.com/ghpvc/?username=Azissa&color=1B7F3B&style=for-the-badge)
 
