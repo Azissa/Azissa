@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A1A3A,100:1B7F3B&height=200&section=header&text=Hi+👋,+I'm+Azis+Satya+Agni&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Eelectrical+Engineering+@+ITS&descSize=15&descAlignY=70" alt="banner" />
-<h2 align="center">An Electrical Engineering Student at Institut Teknologi Sepuluh Nopember</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1A3A,100:1B7F3B&height=200&section=header&text=Hi+👋,+I'm+Azis+Satya+Agni&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Eelectrical+Engineering+@+ITS&descSize=15&descAlignY=70" alt="banner" />
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azissa&show_icons=true&hide_border=true&bg_color=0A1A3A&title_color=1B7F3B&icon_color=1B7F3B&text_color=ffffff" />
