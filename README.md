@@ -1,4 +1,7 @@
-![Pengunjung Profil](https://komarev.com/ghpvc/?username=Azissa&color=blue&style=flat)
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/USERNAME/count.svg" alt="Visitor Count" />
+</div>
 
 <!--
 **Azissa/Azissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
