@@ -37,6 +37,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Azissa&color=1B7F3B&style=for-the-badge)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3A,100:1B7F3B&height=180&section=header&text=Azis%20Satya%20Agni&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 
 
 
