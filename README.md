@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Azissa/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Azissa&label=Visitor%20Count&color=00ff00&label_color=000000&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 <!--
