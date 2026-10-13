@@ -3,6 +3,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0A1A3A,100:1B7F3B&height=200&section=header&text=Azis+Satya+Agni&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Electrical%20Engineering%20%40%20ITS&descSize=18" alt="banner" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azissa&bg_color=0A1A3A&color=ffffff&line=1B7F3B&point=ffffff&area=true&hide_border=true" width="100%" />
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitor%20Count&color=00ff00&label_color=000000&style=for-the-badge" alt="Visitor Count" />
 </div>
