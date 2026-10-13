@@ -5,9 +5,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azissa&bg_color=0A1A3A&color=ffffff&line=1B7F3B&point=ffffff&area=true&hide_border=true" width="100%" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Visitor%20Count&color=00ff00&label_color=000000&style=for-the-badge" alt="Visitor Count" />
-</div>
 
 Here are some ideas to get you started:
 
