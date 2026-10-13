@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azis Satya Agni</h1>
 <h3 align="center">An Electrical Engineering Student at Institut Teknologi Sepuluh Nopember</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0A1A3A,100:1B7F3B&height=200&section=header&text=Azis Satya Agni&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Electrical%20Engineering%20%40%20ITS&descSize=18" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0A1A3A,100:1B7F3B&height=200&section=header&text=Azis+Satya+Agni&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Electrical%20Engineering%20%40%20ITS&descSize=18" alt="banner" />
 
 
 Here are some ideas to get you started:
