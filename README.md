@@ -14,12 +14,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my campus life and study
 - 🌱 I’m currently learning systems and electrical stuff
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on an impacfull project
+- 💬 Ask me about games, and i'm down for it
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: although i will be an engineer, i don't like coffee
 
