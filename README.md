@@ -17,6 +17,8 @@
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on my campus life and study
@@ -32,6 +34,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/azis_tyaa)
 
 ![Views](https://komarev.com/ghpvc/?username=Azissa&abbreviated=true&color=green)
+
+![Views](https://komarev.com/ghpvc/?username=Azissa&color=1B7F3B&style=for-the-badge)
 
 
 
